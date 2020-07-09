@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>Bohdan's world</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
